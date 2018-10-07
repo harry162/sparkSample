@@ -21,8 +21,8 @@ Example Input: (Assume input as text format with '#' as delimiter)-
 		customers:
 		123#AAA Inc#1 First Ave	Mountain View CA#94040
 		456#ABC Inc#2 First Ave	Fayetteville AK#72703
-		789#DEF Inc#3 First Ave	Mobile	AL#36571
-		101112#GHI Inc#4 First Ave	Portland	OR#97205
+		789#DEF Inc#3 First Ave	Mobile AL#36571
+		101112#GHI Inc#4 First Ave Portland OR#97205
 
 		Sales:
 		1454313600#123#123456
