@@ -32,6 +32,7 @@ Example Input: (Assume input as text format with '#' as delimiter)-
 
 
 Example Output:
+
       state#year#month#day#hour#sales
       AL#2017#08#01#09#123457
       AL#2017#08#01##123457
