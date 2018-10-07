@@ -15,8 +15,10 @@ c.	PARQUET
 4.	You can you use any of PYTHON/SCALA/JAVA API’s of your choice.
 
 
-Example Input: (Assume input as text format with '#' as delimiter)
-		customers:
+Example Input: (Assume input as text format with '#' as delimiter)-
+
+		
+		```customers:
 		123#AAA Inc#1 First Ave	Mountain View CA#94040
 		456#ABC Inc#2 First Ave	Fayetteville AK#72703
 		789#DEF Inc#3 First Ave	Mobile	AL#36571
@@ -26,7 +28,7 @@ Example Input: (Assume input as text format with '#' as delimiter)
 		1454313600#123#123456
 		1501578000#789#123457
 		1470045600#456#123458
-		1470049200#789#123459
+		1470049200#789#123459```
 
 
 Example Output:
